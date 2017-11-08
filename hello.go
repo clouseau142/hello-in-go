@@ -9,7 +9,7 @@ func main() {
 	fmt.Printf(Meinprint() + "\n")
 }
 
-// returns mein
+// Meinprint returns a string
 func Meinprint() string {
 	return "mein"
 }
