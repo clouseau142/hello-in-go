@@ -11,5 +11,5 @@ func TestTiming(t *testing.T) {
 
 func ExampleMeinprint() {
 	fmt.Printf(Meinprint())
-	// Output: mein
+	// Output: mein auf deutsch gewechselt
 }
