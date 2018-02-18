@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func TestTiming(t *testing.T) {
 	Meinprint()

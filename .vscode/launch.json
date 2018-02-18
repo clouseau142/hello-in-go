@@ -12,7 +12,7 @@
             "program": "${workspaceRoot}",
             "args": [
                 "-test.run",
-                "MyTestFunction"
+                "TestTiming"
             ]
         },
         {
